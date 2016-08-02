@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[once was instagram]]></title>
         <description><![CDATA[once was instagram]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/once-was-instagram/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 17:44:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 18:52:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/once-was-instagram/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b226880d-aaf2-4f62-a3a5-c378df1117ab.jpg">]]></description>
+            <link>https://thegrid.ai/once-was-instagram/2efa6425-8fbc-49d8-a8a6-f45d0486495b/index.html</link>
+            <guid isPermaLink="false">2efa6425-8fbc-49d8-a8a6-f45d0486495b</guid>
+            <pubDate>Tue, 02 Aug 2016 18:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41b218af-1a42-4ea8-9c3e-06ae8efa3203.jpg">]]></description>
-            <link>undefinedvictoria-mid-halloween/index.html</link>
+            <link>https://thegrid.ai/once-was-instagram/victoria-mid-halloween/index.html</link>
             <guid isPermaLink="false">ccce2d79-799f-4933-a322-c9b09dc4b974</guid>
             <pubDate>Tue, 02 Aug 2016 17:44:15 GMT</pubDate>
         </item>
