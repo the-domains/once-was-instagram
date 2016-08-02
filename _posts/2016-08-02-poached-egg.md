@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Poached egg
-datePublished: '2016-08-02T20:12:36.354Z'
-dateModified: '2016-08-02T20:12:10.808Z'
+datePublished: '2016-08-02T20:30:32.605Z'
+dateModified: '2016-08-02T20:12:41.485Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-02-poached-egg.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-02-poached-egg.md
 url: poached-egg/index.html
 _type: Article
 
